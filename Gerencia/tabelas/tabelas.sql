@@ -1,6 +1,6 @@
 --------------------------------------------------------
 --
--- Estrutura das tabelas`gerencia de materiais`
+-- Estrutura das tabelas
 --
 
 CREATE TABLE IF NOT EXISTS `pessoa`(
